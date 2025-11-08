@@ -1146,8 +1146,22 @@ year = st.number_input("Year of Manufacture", 1990, 2025, 2018)
 kilometer = st.number_input("Kilometers Driven", 0, 1000000, 50000)
 fuel_type = st.selectbox("Fuel Type", ['Petrol', 'Diesel', 'CNG', 'Electric'])
 transmission = st.selectbox("Transmission", ['Manual', 'Automatic'])
-seating_capacity = st.number_input("Seating Capacity", 2, 4,5,7,10,12)
-fuel_tank_capacity = st.number_input("Fuel Tank Capacity (litres)", 10,20,30,40,50,60,70,80,90,100 ,110)
+seating_capacity = st.number_input(
+    "Seating Capacity",
+    min_value=2,
+    max_value=12,
+    step=1,
+    value=5
+)
+
+fuel_tank_capacity = st.number_input(
+    "Fuel Tank Capacity (litres)",
+    min_value=10,
+    max_value=110,
+    step=10,
+    value=40
+)
+
 max_torque_in_nm = st.number_input("Max Torque (Nm)", 50, 1000, 120)
 max_power_in_bhp = st.number_input("Max Power (BHP)", 10, 600, 100)
 engine_cc = st.number_input("Engine CC", 50, 6000, 1200)
