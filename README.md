@@ -31,7 +31,7 @@ This project aims to predict the selling price of used cars based on various fea
 
 ## 🔗 Project Link
 
-👉 [View Full Project on GitHub](https://github.com/Chakravarthi-areti/Car-Price-Prediction)
+👉 [View Full Project on GitHub](https://github.com/Chakravarthi-areti/ml-project-car-price-prediction)
 
 # Prediction app Link:::
 
