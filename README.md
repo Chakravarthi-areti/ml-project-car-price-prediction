@@ -10,7 +10,6 @@ This project aims to predict the selling price of used cars based on various fea
 | **Project Name** | Car Price Prediction Model |
 | **Tech Stack** | Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
 | **Algorithms Used** | Linear Regression, Ridge Regression, Lasso Regression, Gradient Boosting Regressor |
-| **Dataset Size** | — | dataset containing car details such as brand, year, fuel type, transmission, etc.) |
 | **Model Evaluation Metrics** | MAE, MSE, RMSE, R² Score |
 | **Goal** | To build a predictive model that accurately estimates car prices based on historical data. |
 
