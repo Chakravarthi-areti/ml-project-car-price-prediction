@@ -2,7 +2,6 @@
 
 This project aims to predict the selling price of used cars based on various features such as brand, model year, fuel type, kilometers driven, and more. The goal is to help users estimate the fair market value of a car using machine learning algorithms.
 
----
 
 ## 📊 Project Overview
 
@@ -13,8 +12,6 @@ This project aims to predict the selling price of used cars based on various fea
 | **Algorithms Used** | Linear Regression, Ridge Regression, Lasso Regression, Gradient Boosting Regressor |
 | **Dataset Size** | — | dataset containing car details such as brand, year, fuel type, transmission, etc.) |
 | **Model Evaluation Metrics** | MAE, MSE, RMSE, R² Score |
-| **Train Accuracy** | 0.91 |
-| **Test Accuracy** | 0.93 |
 | **Goal** | To build a predictive model that accurately estimates car prices based on historical data. |
 
 ---
