@@ -2,6 +2,10 @@
 
 This project aims to predict the selling price of used cars based on various features such as brand, model year, fuel type, kilometers driven, and more. The goal is to help users estimate the fair market value of a car using machine learning algorithms.
 
+# Prediction app Link:::
+
+[View Car Price Prediction App](https://ml-project-car-price-prediction.streamlit.app/)
+
 
 ## 📊 Project Overview
 
@@ -32,9 +36,7 @@ This project aims to predict the selling price of used cars based on various fea
 
 👉 [View Full Project on GitHub](https://github.com/Chakravarthi-areti/ml-project-car-price-prediction)
 
-# Prediction app Link:::
 
-[View Car Price Prediction App](https://ml-project-car-price-prediction.streamlit.app/)
 
 
 ---
